@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @GustavOnaga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### Hi, I’m @GustavOnaga
+-  Biomedical Engineer at the Federal University of ABC - UFABC
+-  Currently learning about data analytics
 
-<!---
-GustavOnaga/GustavOnaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# Langaguas and Tools
+Pyhton, SQL, Power Bi, 
+
+
+
