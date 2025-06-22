@@ -1,6 +1,6 @@
 ### Hi, I’m Gustavo Onaga
 -  Biomedical Engineer at the Federal University of ABC - UFABC
--  Currently learning about data analytics
+-  Postgraduate student in Data Analytics at FIAP
 
 ---
 
