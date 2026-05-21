@@ -1,27 +1,94 @@
 ### Hi, I’m Gustavo Onaga 👋
 
+**`Analytics Engineer | Data Analytics`**
+
 - Biomedical Engineer at the Federal University of ABC (UFABC)
 - Postgraduate student in Data Analytics at FIAP
 
+<br/>
+
 ---
 
-## 🛠️ Languages and Tools
+<br/>
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🛠️ Languages and Tools
 
-### 🗄️ Databases
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img 
+    align = "left"
+    alt = "SQL"
+    title = "SQL"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+ 
+<img 
+    align = "left"
+    alt = "Python"
+    title = "Python"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ 
+ <img 
+    align = "left"
+    alt = "VSCode"
+    title = "VSCode"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
-### 📊 BI & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+ <img 
+    align = "left"
+    alt = "Git"
+    title = "Git"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-### ⚙️ Data Engineering
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+ <img 
+    align = "left"
+    alt = "Git"
+    title = "Git"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
 
-### ⚙️ Productivity
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+ <img 
+    align = "left"
+    alt = "Git"
+    title = "Git"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
+ <img 
+    align = "left"
+    alt = "Pandas"
+    title = "Pandas"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+
+ <img 
+    align = "left"
+    alt = "Pandas"
+    title = "Pandas"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" >
+
+<br/>
+<br/>
+<br/>
+
+### Statics
+
+<p>
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="src="https://github-readme-stats.vercel.app/api?username=GustavOnaga&show_icons=true&theme=tokyonight"
+    />
+</p>
