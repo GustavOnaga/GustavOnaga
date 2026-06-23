@@ -16,7 +16,7 @@
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=python,mysql,git,github,gitlab,vscode"
+    src="https://skillicons.dev/icons?i=python,git,github,gitlab,vscode"
   />
 </p>
 
